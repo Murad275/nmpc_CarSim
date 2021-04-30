@@ -1,11 +1,13 @@
 NMPC-CarSim
+***********
 
  This project uses casadi in matlab to implement a NMPC controller for a vehicle in CarSim.
   https://youtu.be/6wHSdGmxydk 
 
-  https://ieeexplore.ieee.org/abstract/document/9047783
+  Paper: https://ieeexplore.ieee.org/abstract/document/9047783
 
 Steps to run model:
+******************
  1. Go to CarSim2017.1_Data\Extensions\Simulink and place the file "murad_nmpc.slx"(matlab 2019a).
  2. Go to CarSim2017.1_Data\ and place the file "casadi_block_presented.m".
  3. In CarSim go to File -> import parsfile and select the file "murad_nmpc.par".
