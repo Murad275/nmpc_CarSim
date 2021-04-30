@@ -1,4 +1,5 @@
-nmpc_CarSim
+Nmpc_CarSim
+
  1. Go to CarSim2017.1_Data\Extensions\Simulink and place the file "murad_nmpc.slx"(matlab 2019a).
  2. Go to CarSim2017.1_Data\ and place the file "casadi_block_presented.m".
  3. In CarSim go to File -> import parsfile and select the file "murad_nmpc.par".
