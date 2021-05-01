@@ -15,5 +15,5 @@ Steps to run model:
  4. Install casadi from https://web.casadi.org/get/
  5. Edit the path to casadi folder in the "casadi_block_presented.m" in the "setupImpl" function.
  6. In CarSim select send to simulink (CarSim will load a Matlab instance)
- 7. Once Simulink loads click run to run the model.
+ 7. Once the Simulink model is loaded, click run to start the simulation.
  
