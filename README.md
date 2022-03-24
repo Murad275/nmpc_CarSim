@@ -4,7 +4,16 @@ NMPC-CarSim
  This project uses Casadi in Matlab to implement a NMPC controller for a vehicle in CarSim.
   https://youtu.be/6wHSdGmxydk 
 
- If you find the code useful for your research kindly cite the Paper: https://ieeexplore.ieee.org/abstract/document/9047783
+ If you use this project, give us the credit by citing this work:
+ 
+ <pre><code>@@INPROCEEDINGS {9047783,  
+ author = {Dawood, Murad and Abdelaziz, Mohamed and Ghoneima, M and Hammad, S},  
+ booktitle = {2020 International Conference on Innovative Trends in Communication and Computer Engineering (ITCE)},   
+ title = {A nonlinear model predictive controller for autonomous driving},   
+ year = {2020},  
+ pages = {151-157}}
+}
+</code></pre>
 **************
 
 Steps to run model:
