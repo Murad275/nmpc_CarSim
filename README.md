@@ -6,12 +6,13 @@ NMPC-CarSim
 
  If you use this project, give us the credit by citing this work:
  
- <pre><code>@@INPROCEEDINGS {9047783,  
- author = {Dawood, Murad and Abdelaziz, Mohamed and Ghoneima, M and Hammad, S},  
- booktitle = {2020 International Conference on Innovative Trends in Communication and Computer Engineering (ITCE)},   
- title = {A nonlinear model predictive controller for autonomous driving},   
- year = {2020},  
- pages = {151-157}}
+ <pre><code>@inproceedings{dawood2020nonlinear,
+  title={A nonlinear model predictive controller for autonomous driving},
+  author={Dawood, Murad and Abdelaziz, Mohamed and Ghoneima, M and Hammad, S},
+  booktitle={2020 International Conference on Innovative Trends in Communication and Computer Engineering (ITCE)},
+  pages={151--157},
+  year={2020},
+  organization={IEEE}
 }
 </code></pre>
 **************
