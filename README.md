@@ -3,7 +3,8 @@ NMPC-CarSim
 
  This project uses Casadi in Matlab to implement a NMPC controller for a vehicle in CarSim.
  
-  https://youtu.be/6wHSdGmxydk 
+  https://youtu.be/6wHSdGmxydk
+  
   https://ieeexplore.ieee.org/document/9047783
 
  If you use this project, give us the credit by citing this work:
